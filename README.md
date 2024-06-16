@@ -1,8 +1,11 @@
 # 223086 Мила Тодоровска
 
+# CFG
+![223086_CFG](https://github.com/milatodorovska/SI_2024_lab2_223086/assets/70750343/e0a99509-99ce-4dc6-bf42-e4145b242098)
+
 # Цикломатска комплексност
 - 9 предикатни јазли + 1 = 10
-
+  
 # Every Branch критериум
 testCase1: allItems = null, payment = 0
 Покриени гранки: 1-2, 2-27
